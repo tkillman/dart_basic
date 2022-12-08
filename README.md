@@ -36,7 +36,7 @@ var와의 차이점 설명할 수 있기.
 null이 가능한 변수 선언.
 null이지 않다는 표시하기
 ```
-### 09_nul
+### 09_final
 ```
 상수 선언하기
 const와 final의 차이점 말할 수 있기.
@@ -72,4 +72,27 @@ named 매개변수를 가진 함수 만들기
 ### 16_typedef
 ```
 typedef 써보기
+```
+### 17_clas
+```
+Idor이라는 class 만들어보기
+Idor의 전역변수는 name과 List<String>
+Idor의 생성자에 const를 붙였을 때 차이점 설명 가능하기.
+private 기능은 class명 또는 변수명, 함수명 앞에 _를 붙이면 된다.
+```
+### 18_inheritance
+```
+상속 사용해보기
+```
+### 19_static
+```
+static 변수 사용해보기
+```
+### 20_interface
+```
+interface 사용해보기
+```
+### 21_generic
+```
+generic 사용해보기
 ```
