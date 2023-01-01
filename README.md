@@ -217,7 +217,7 @@ where를 사용해서 group이 a인 값만 필터하기
 
 ```
 
-###26_cascadeOpertator
+### 26_cascadeOpertator
 
 ```
     List<int> num1 = [1,3,5];
@@ -236,5 +236,19 @@ where를 사용해서 group이 a인 값만 필터하기
   ];
 
 class 형태로 바꿔보기
+
+```
+
+### 28_async
+
+```
+2초 딜레이를 가진 함수
+
+```
+
+### 29_stream
+
+```
+stream 사용해보기
 
 ```
