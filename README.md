@@ -2,7 +2,7 @@
 
 dart basic
 vs 코드 설치 후 package에 dart 추가
-
+https://dart.dev/get-dart
 ## 챕터정리
 
 ### 01_hello
